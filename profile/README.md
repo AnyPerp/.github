@@ -1,4 +1,4 @@
-﻿<!--
+<!--
   GitHub Organization profile README
   Repo: AnyPerp/.github  →  profile/README.md
   Renders on https://github.com/AnyPerp
@@ -229,6 +229,32 @@ Report vulnerabilities privately per [`SECURITY.md`](https://github.com/AnyPerp/
 - **Website:** [anyperp.fun](https://anyperp.fun)
 - **Source:** [github.com/AnyPerp/anyperp](https://github.com/AnyPerp/anyperp)
 - **X:** [@tradeanyperp](https://x.com/tradeanyperp)
+
+---
+
+## Contributors
+
+People shipping **AnyPerp** (avatars + names, GitHub-style).
+
+<table>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://github.com/tradeanyperp">
+        <img src="https://github.com/tradeanyperp.png?size=100" width="64" height="64" alt="tradeanyperp" /><br />
+        <b>tradeanyperp</b>
+      </a>
+      <br /><sub>Protocol · product</sub>
+    </td>
+  </tr>
+</table>
+
+<p>
+  <a href="https://github.com/AnyPerp/anyperp/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=AnyPerp/anyperp" alt="contrib.rocks" />
+  </a>
+</p>
+
+Open source on GitHub: [AnyPerp/anyperp](https://github.com/AnyPerp/anyperp) · Org: [AnyPerp](https://github.com/AnyPerp)
 
 ---
 
