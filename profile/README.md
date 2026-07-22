@@ -245,6 +245,20 @@ People shipping **AnyPerp** (avatars + names, GitHub-style).
       </a>
       <br /><sub>Protocol · product</sub>
     </td>
+    <td align="center" width="140">
+      <a href="https://github.com/CallMESuper">
+        <img src="https://github.com/CallMESuper.png?size=100" width="64" height="64" alt="CallMESuper" /><br />
+        <b>CallMESuper</b>
+      </a>
+      <br /><sub>Super</sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://github.com/nmayorga092">
+        <img src="https://github.com/nmayorga092.png?size=100" width="64" height="64" alt="nmayorga092" /><br />
+        <b>nmayorga092</b>
+      </a>
+      <br /><sub>Nicolás</sub>
+    </td>
   </tr>
 </table>
 
@@ -255,6 +269,7 @@ People shipping **AnyPerp** (avatars + names, GitHub-style).
 </p>
 
 Open source on GitHub: [AnyPerp/anyperp](https://github.com/AnyPerp/anyperp) · Org: [AnyPerp](https://github.com/AnyPerp)
+
 
 ---
 
